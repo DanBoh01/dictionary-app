@@ -1,0 +1,9 @@
+C:\Users\home\Desktop\dictionary-app\dictionary-app\bin\Debug\dictionary-app.exe.config
+C:\Users\home\Desktop\dictionary-app\dictionary-app\bin\Debug\dictionary-app.exe
+C:\Users\home\Desktop\dictionary-app\dictionary-app\bin\Debug\dictionary-app.pdb
+C:\Users\home\Desktop\dictionary-app\dictionary-app\obj\Debug\dictionary-app.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\dictionary-app\dictionary-app\obj\Debug\dictionary_app.Properties.Resources.resources
+C:\Users\home\Desktop\dictionary-app\dictionary-app\obj\Debug\dictionary-app.csproj.GenerateResource.cache
+C:\Users\home\Desktop\dictionary-app\dictionary-app\obj\Debug\dictionary-app.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\dictionary-app\dictionary-app\obj\Debug\dictionary-app.exe
+C:\Users\home\Desktop\dictionary-app\dictionary-app\obj\Debug\dictionary-app.pdb
